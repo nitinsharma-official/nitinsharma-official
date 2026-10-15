@@ -1,20 +1,28 @@
-Hi, I'm Nitin Sharma 
+# Hi, I'm Nitin Sharma 
 
-Aspiring Data Analyst | Python | NumPy | Pandas
+### Aspiring Data Analyst | Python | NumPy | Pandas
 
 Welcome to my GitHub profile! I'm learning data analysis and building projects to improve my programming and analytical skills.
 
-** About Me
+## About Me
 
-Interested in Data Analysis and Data Science
+- Interested in Data Analysis and Data Science
+- Learning Python, NumPy, and Pandas
+- Practicing data cleaning, manipulation, and analysis
+- Building projects to develop practical skills
+- Always eager to learn new technologies
 
-Learning Python, NumPy, and Pandas
+## Connect With Me
 
-Practicing data cleaning, manipulation, and analysis
+- **GitHub:** https://github.com/nitinsharma-official
+- **LinkedIn:** linkedin.com/in/nitin-sharma-852248333
+- **Instagram:** https://www.instagram.com/nit.insharma_18?dlrf=Y3hkZjh0aWlraGZ1
 
-Building projects to develop practical skills
+## My Goal
 
-Always eager to learn new technologies
+To continuously improve my data analysis skills, work on real-world datasets, and build meaningful projects.
+
+---
 
 ## Skills & Technologies
 
@@ -83,3 +91,5 @@ Always eager to learn new technologies
 - Feature Engineering
 - Model Training and Evaluation
 - Data-Driven Insights
+
+Thanks for visiting my profile!
