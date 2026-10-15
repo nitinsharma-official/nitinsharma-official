@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm learning data analysis and building projects t
 ## Connect With Me
 
 - **GitHub:** https://github.com/nitinsharma-official
-- **LinkedIn:** linkedin.com/in/nitin-sharma-852248333
+- **LinkedIn:** [linkedin.com/in/nitin-sharma-852248333](https://www.linkedin.com/in/nitin-sharma-852248333 utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - **Instagram:** https://www.instagram.com/nit.insharma_18?dlrf=Y3hkZjh0aWlraGZ1
 
 ## My Goal
